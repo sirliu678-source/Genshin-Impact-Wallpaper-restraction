@@ -59,18 +59,6 @@
 
 ---
 
-## 🚀 部署与使用
-
-### 1. 本地单机直接运行
-本项目为纯前端单文件架构，无需安装 Node.js、Python 或任何构建工具：
-1. 下载仓库中的 `index.html` 文件。
-2. 双击 `index.html`，即可在 Chrome / Edge / Safari 等任意现代浏览器中运行。
-
-### 2. 部署到 GitHub Pages（在线公网访问）
-1. 将 `index.html` 上传至你的公开 GitHub 仓库。
-2. 进入仓库的 **Settings** ➔ **Pages**。
-3. 在 **Branch** 处选择 **`main`** 分支，目录保持 **`/ (root)`**，点击 **Save**。
-4. 部署完成后，即可通过 `https://<你的用户名>.github.io/<仓库名>/` 在手机或任意电脑上在线使用。
 
 ---
 
